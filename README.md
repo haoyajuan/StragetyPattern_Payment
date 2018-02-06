@@ -1,0 +1,2 @@
+# StragetyPattern_Payment
+使用策略模式实现多种支付方式的调用,避免使用大块的判断语句
